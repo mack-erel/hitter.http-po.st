@@ -150,7 +150,3 @@ npm run dev
 ```bash
 npm run deploy
 ```
-
-## 라이센스
-
-MIT 
